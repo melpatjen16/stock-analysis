@@ -46,6 +46,7 @@ Forunately, this code was well documented but it may be useful to evaluate the d
 
 
 Sub AllStocksAnalysisRefactored()
+
     Dim startTime As Double
     Dim endTime  As Double
     Dim yearValue As String
@@ -189,11 +190,13 @@ Sub AllStocksAnalysisRefactored()
 
 End Sub
 
+---
 
 #### Original Code
 ---
 
 Sub OriginalCode()
+
  Dim startTime As Single
     Dim endTime  As Single
 
@@ -305,6 +308,3 @@ Sub OriginalCode()
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
 End Sub
-
-
-
