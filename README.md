@@ -2,6 +2,10 @@
 
 ## Overview of Project:
 
+Our client, Steve, requests an expanded green-stock data set to include the entire stockmart in 2017 and 2018. An intial code was provided and in order to provide the data as Steve requests, we have refactored the code to ensure the following: 
+  1. Maintain the sma efunctionality of the original code
+  2. Improve the performs of the VBA macro
+  3. Provide an analysis that identifies positive and negative returns for stocks listed. 
 
 ## Results:
 
