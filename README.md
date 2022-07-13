@@ -12,12 +12,12 @@
 
 2. How do these pros and cons apply to refactoring the original VBA script?
 
-### Refactored Code
+#### Refactored Code
 
 
 
-### Original Code
+#### Original Code
 
 
-##Changes in run-time/performance
+### Changes in run-time/performance
 
