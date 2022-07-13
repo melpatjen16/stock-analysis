@@ -13,7 +13,7 @@ Refactoring the provided code did allow for a more efficent performing code. Ult
 
 ### Changes in run-time/performance
 
-![2017 Refactored Code Results](stock-analysis/Resources/VBA Challenge_2017.png)
+![2017 Refactored Code Results](https://github.com/melpatjen16/stock-analysis/blob/main/Resources/VBA%20Challenge_2017.png))
 
 
 ![2018 Refactored Code Results](stock-analysis/Resources/VBA_Challenege_2018.png)
