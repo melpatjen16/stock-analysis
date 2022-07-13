@@ -103,7 +103,7 @@ Sub AllStocksAnalysisRefactored()
     
     
     
-    ''2a) Create a for loop to initialize the tickerVolumes to zero.
+    '2a) Create a for loop to initialize the tickerVolumes to zero.
     For i = 0 To 11
    
         tickerVolumes(i) = 0
@@ -113,7 +113,7 @@ Sub AllStocksAnalysisRefactored()
     
     Next i
         
-    ''2b) Loop over all the rows in the spreadsheet.
+    '2b) Loop over all the rows in the spreadsheet.
     
     For i = 2 To RowCount
     
