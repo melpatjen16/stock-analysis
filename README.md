@@ -8,7 +8,7 @@ Our client, Steve, requests an expanded green-stock data set to include the enti
   3. Provide an analysis that identifies positive and negative returns for stocks listed. 
 
 ## Results:
-Refactoring the provided code did allow for a more efficent performing code. Ultimately, the 2017 dataset improved in performance from .09375 seconds to 0.0625 seconds. Similarly, the refactored code performed with less time - from 0.109375 seconds to 0.0625 seconds - for the 2018 worksheet. 
+Refactoring the provided code did allow for a more efficent performing code. Ultimately, the 2017 dataset improved in performance from .09375 seconds to 0.0625 seconds. Similarly, the refactored code performed with less time - from 0.109375 seconds to 0.0625 seconds - for the 2018 worksheet. These numbers did not remain consistent. There is still work to be done to improve performance. 
 
 
 ### Changes in run-time/performance
