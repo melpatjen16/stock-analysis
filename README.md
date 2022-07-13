@@ -10,6 +10,11 @@ Our client, Steve, requests an expanded green-stock data set to include the enti
 ## Results:
 Refactoring the provided code did allow for a more efficent performing code. Ultimately, the 2017 dataset improved in performance from .09375 seconds to 0.0625 seconds. Similarly, the refactored code performed with less time - from 0.109375 seconds to 0.0625 seconds - for the 2018 worksheet. 
 
+
+### Changes in run-time/performance
+
+
+
 ## Summary:
 
 1. What are the advantages or disadvantages of refactoring code?
@@ -22,6 +27,7 @@ Forunately, this code was well documented but it may be useful to evaluate the d
 
 
 #### Refactored Code
+
 
 Sub AllStocksAnalysisRefactored()
     Dim startTime As Double
@@ -284,5 +290,4 @@ Sub OriginalCode()
 End Sub
 
 
-### Changes in run-time/performance
 
