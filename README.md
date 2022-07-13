@@ -27,6 +27,7 @@ Forunately, this code was well documented but it may be useful to evaluate the d
 
 
 #### Refactored Code
+---
 
 
 Sub AllStocksAnalysisRefactored()
@@ -175,6 +176,7 @@ End Sub
 
 
 #### Original Code
+---
 
 Sub OriginalCode()
  Dim startTime As Single
