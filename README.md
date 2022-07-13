@@ -23,7 +23,7 @@ Refactoring the provided code did allow for a more efficent performing code. Ult
 
 #### Original Code
 
-![2017 Original Code Results](stock-analysis/Resources/VBA_Challenege_2017_oldcode.png)
+![2017 Original Code Results](https://github.com/melpatjen16/stock-analysis/blob/main/Resources/VBA_Challenge_2017_oldcode.png))
 
 
 ![2018 Original Code Results](stock-analysis/Resources/VBA_Challenege_2018_oldcode.png)
